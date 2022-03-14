@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **narcotis/narcotis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://opgc.me/#/users/narcotis" target="_blank"><img src="https://api.opgc.me/githubs/users/narcotis/tag/?theme=basic" /></a>
