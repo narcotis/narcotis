@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narcotis)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://opgc.me/#/users/narcotis" target="_blank"><img src="https://api.opgc.me/githubs/users/narcotis/tag/?theme=basic" /></a>
